@@ -13,42 +13,23 @@ This is a blog application built using the MERN (MongoDB, Express.js, React.js, 
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: `https://github.com/amanmohadikar/Blog_Hub`
 
+2. Navigate to the Folder: Blog_Hub/
 
-2. Navigate to the project directory:
+3. Navigate to the client Folder for UI part : client/ 
 
+4. Install the dependencies for the client: npm i
 
-3. Install the dependencies for both the server and client:
+5. Start the frontend server : npm start
 
+6. Open another terminal command : continue same process as did frontend and go to the server folder
 
-4. Run the application:
+7. Install the dependencies for the server: npm i
 
-- Open a new terminal and navigate to the `server` directory:
+8. Start the backend server : npx nodemon src/index.js
 
-  ```
-  cd server
-  ```
-
-- Start the server:
-
-  ```
-  nodemon app.js
-  ```
-
-- Open another terminal and navigate to the `client` directory:
-
-  ```
-  cd client
-  ```
-
-- Start the client:
-
-  ```
-  npm start
-  ```
-
-6. Open your browser and visit `http://localhost:3000` to access the blog app.
+9.  Open your browser and visit `http://localhost:3000` to access the blog app.
 
 ## Technologies Used
 
